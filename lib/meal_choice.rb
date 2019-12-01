@@ -12,5 +12,3 @@ end
 meal_choice("broccoli", "macaroni")
 meal_choice("macaroni", "broccoli", "tofu")
 meal_choice("macaroni", "broccoli")
-
-  
